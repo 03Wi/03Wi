@@ -1,4 +1,4 @@
-### Hi there 👋 I am Student of Colombia
+### Welcome👋, I am a Computer Science student!
 
 <!--
 **03Wi/03Wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
