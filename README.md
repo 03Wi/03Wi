@@ -1,5 +1,9 @@
 ### Welcome👋, I am a Computer Science student!
 
+This is my repository, here you will find my projects development<33
+
+I like reading, solving problems, researching, learning and teaching.  
+"Somos nuestros artifices asi que no se desanimen"⚜
 <!--
 **03Wi/03Wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
