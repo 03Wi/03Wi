@@ -7,7 +7,7 @@ I like reading, solving problems, researching, learning and teaching.
 <h1 align="center">Hi, my name is Wilson Osorio 👋</h1>
 <h3 align="center">Development Java</h3>
 
-<p align="center">
+<p align="center", margin="10px">
   <a href="https://www.linkedin.com/in/wilson-osorio-" target="_blank">
     <img  src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
