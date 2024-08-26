@@ -9,13 +9,13 @@ I like reading, solving problems, researching, learning and teaching.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilson-osorio-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:osoriowilson089@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="margin: 0 15px;" />
+  <a href="mailto:osoriowilson089@gmail.com">z
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://github.com/03Wi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
