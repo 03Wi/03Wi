@@ -9,13 +9,13 @@ I like reading, solving problems, researching, learning and teaching.
 
 <p>
   <a href="https://www.linkedin.com/in/wilson-osorio-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img  src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:osoriowilson089@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
   </a>
   <a href="https://github.com/03Wi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
   </a>
 </p>
 
@@ -32,18 +32,20 @@ I like reading, solving problems, researching, learning and teaching.
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <h2>:star2: Front End</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,regex&perline=6" />
-  </a>
-
-  <h2>:zap: Back End</h2>
+  
+  <h2>Back End</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,mysql,postgres&perline=6" />
   </a>
-  <h2>:wrench: Tools</h2>
+  
+  <h2>Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,regex&perline=6" />
+  </a>
+  
+  <h2>Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,linux&perline=6" />
   </a>
 </p>
 <br>
