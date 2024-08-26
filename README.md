@@ -34,22 +34,16 @@ I like reading, solving problems, researching, learning and teaching.
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,regex&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,mysql,postgres&perline=6" />
   </a>
-
-  <h2>:hammer: Devops</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
-  </a>
-
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,linux&perline=6" />
   </a>
 </p>
 <br>
