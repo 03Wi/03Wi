@@ -9,13 +9,13 @@ I like reading, solving problems, researching, learning and teaching.
 
 <p>
   <a href="https://www.linkedin.com/in/wilson-osorio-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:osoriowilson089@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/03Wi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ I like reading, solving problems, researching, learning and teaching.
 ### 🌟 Sobre Mí
 
 - 🔭 Actualmente estoy trabajando en un proyecto de **Chat en Tiempo Real** utilizando **Java**.
-- 🌱 Siempre estoy aprendiendo algo nuevo; ahora mismo me enfoco en **Spring Boot** y mejorar mi inglés.
+- 🌱 Buscando la excelencia
 - 🎯 Mis metas: **Areté**.
 
 ---
@@ -53,6 +53,7 @@ I like reading, solving problems, researching, learning and teaching.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=03Wi&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  ---
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=03Wi&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
 
@@ -60,7 +61,7 @@ I like reading, solving problems, researching, learning and teaching.
 
 ### 💬 Contacto
 
-Si quieres discutir sobre tecnología, proyectos o simplemente saludar, no dudes en contactarme a través de mis redes sociales o por correo electrónico.
+Tomemos un cafe y hablamos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilson-osorio-" target="_blank">
