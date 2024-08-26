@@ -4,7 +4,7 @@ This is my repository, here you will find my projects development<33
 
 I like reading, solving problems, researching, learning and teaching.  
 "Somos nuestros artifices asi que no se desanimen"⚜
-<h1 align="center">Hi, my name is Wilson Osorio 👋</h1>
+<h1 align="center">My name is Wilson Osorio :3</h1>
 <h3 align="center">Development Java</h3>
 
 <p align="center">
@@ -41,7 +41,7 @@ I like reading, solving problems, researching, learning and teaching.
   
   <h2>Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
   </a>
   
   <h2>Tools</h2>
