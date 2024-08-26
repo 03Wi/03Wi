@@ -7,17 +7,18 @@ I like reading, solving problems, researching, learning and teaching.
 <h1 align="center">Hi, my name is Wilson Osorio 👋</h1>
 <h3 align="center">Development Java</h3>
 
-<p align="center", margin="10px">
+<p align="center">
   <a href="https://www.linkedin.com/in/wilson-osorio-" target="_blank">
-    <img  src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 15px;" />
   </a>
   <a href="mailto:osoriowilson089@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="margin: 0 15px;" />
   </a>
   <a href="https://github.com/03Wi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 15px;" />
   </a>
 </p>
+
 
 ---
 
