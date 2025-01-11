@@ -24,7 +24,7 @@ I like reading, solving problems, researching, learning and teaching.
 
 ### 🌟 Sobre Mí
 
-- 🔭 Actualmente estoy trabajando en un proyecto de **Chat en Tiempo Real** utilizando **Java**.
+- 🔭 Actualmente estoy trabajando en un proyecto de **e-commerce** utilizando **Java**.
 - 🌱 Buscando la excelencia
 - 🎯 Mis metas: **Areté**.
 
